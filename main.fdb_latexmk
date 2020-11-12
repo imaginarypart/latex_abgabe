@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1605203315 "main.tex" "main.pdf" "main" 1605203335
+["pdflatex"] 1605206932 "main.tex" "main.pdf" "main" 1605206933
   "/usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
   "/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty" 1583617216 6501 4011d89d9621e0b0901138815ba5ff29 ""
   "/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty" 1572645307 1057 525c2192b5febbd8c1f662c9468335bb ""
@@ -13,9 +13,9 @@
   "/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1586288239 4811913 0be9a7e86c70a26e5e3042966bcd7097 ""
   "/usr/local/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt" 1601168864 2432461 da902d1d4176bf8f15bfdee1e31455bd ""
   "/usr/local/texlive/2020/texmf.cnf" 1586288231 577 d60164b4589a341208aff7a667fbbdcb ""
-  "main.aux" 1605203317 8 a94a2480d3289e625eea47cd1b285758 "pdflatex"
-  "main.tex" 1605203315 121 409ac4bb92eb4f42dd63c1f9b7880404 ""
+  "main.aux" 1605206933 8 a94a2480d3289e625eea47cd1b285758 "pdflatex"
+  "main.tex" 1605206932 154 c6fd80d319bb895657d1e7e56df62129 ""
   (generated)
   "main.log"
-  "main.pdf"
   "main.aux"
+  "main.pdf"
