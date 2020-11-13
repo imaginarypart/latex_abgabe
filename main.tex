@@ -1,8 +1,41 @@
 \documentclass[a4paper]{article}
 \usepackage[utf8]{inputenc}
 \usepackage{geometry}
+\usepackage{fancyhdr}
+\usepackage[ngerman]{babel}
+\usepackage{amsmath,amssymb,amsthm}
+
 
 \begin{document}
-\pagestyle{empty}
-Test. 1235646456456
+%Globale Einstellungen
+\renewcommand{\rmdefault}{\sfdefault}
+\newcommand{\quoderat}{\hfill$\blacksquare$}
+\setlength{\parindent}{0pt}
+\pagestyle{fancy}
+%Header
+\lhead
+  {
+  Vorlesung}
+\chead
+  {
+  \Large Abgabe 1}
+\rhead
+  {
+  WiSe 20/21}
+%Body
+\begin{flushright}
+\textsf{
+\begin{tabular}{cc}
+Özgül Schneider & (654321) \\
+Yvonne Nguyen-Chang & (612345)
+\end{tabular}}
+\end{flushright}
+\paragraph{Aufgabe 1} Da dies ein Test ist, zeigen wir im Folgenden, was zu zeigen ist. Sei hierfür $\varepsilon < 0$.
+Offensichtlich ist dann $-\varepsilon > 0$, was zu zeigen war.\quoderat
+%Footer
+\cfoot
+  {
+  \hphantom{X}}
+\rfoot
+  {\thepage}
 \end{document}
